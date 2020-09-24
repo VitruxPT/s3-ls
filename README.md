@@ -7,13 +7,13 @@ For deep recursive listing of an S3 'folder' contents see the sibling project [`
 # Install
 
 ```bash
-npm i -S s3-ls
+npm i -S vitruxpt/s3-ls-reforged
 ```
 
 # Usage
 
 ```js
-const s3ls = require("s3-ls");
+const s3ls = require("s3-ls-reforged");
 
 const lister = s3ls({ bucket: "my-bucket-name" });
 
