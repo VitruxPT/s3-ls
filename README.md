@@ -1,4 +1,4 @@
-# s3-ls [![Build Status](https://travis-ci.org/koresar/s3-ls.svg?branch=master)](https://travis-ci.org/koresar/s3-ls)
+# s3-ls-reforged [![Build Status](https://travis-ci.org/koresar/s3-ls.svg?branch=master)](https://travis-ci.org/koresar/s3-ls)
 
 List contents of an S3 bucket 'folder'. Node.js module and command line executable.
 
